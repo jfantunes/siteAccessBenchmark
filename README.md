@@ -1,3 +1,5 @@
+This application is for benchmarking  site loading times. Its made in Python using the Bottle Framework (http://bottlepy.org/docs/dev/)
+
 For starting the aplication follow the steps (NOTICE: the apllication was made to run in Python 3.5):
 
 1- Create virtualenv - virtualenv -p (path to python version executable) <env_name>
