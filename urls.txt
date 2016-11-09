@@ -1,6 +1,3 @@
-http://www.claranet.comsdsd;http://www.claranet.de;
-http://www.claranet.co.uk;
-http://www.claranet.fr;
-http://www.claranet.nl;
-http://www.claranet.es;
-http://www.claranet.pt;
+https://www.google.com;https://www.python.org/;
+https://www.stackoverflow.com;
+https://www.reddit.com/;
