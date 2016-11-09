@@ -1,0 +1,6 @@
+http://www.claranet.comsdsd;http://www.claranet.de;
+http://www.claranet.co.uk;
+http://www.claranet.fr;
+http://www.claranet.nl;
+http://www.claranet.es;
+http://www.claranet.pt;
